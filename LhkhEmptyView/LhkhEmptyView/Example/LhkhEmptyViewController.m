@@ -26,6 +26,8 @@
     
     
     
+    
+    
     //当有网络请求数据的时候 无数据直接调用
     [[LhkhEmptyViewManager sharedTipsManager] showTipsViewType:TipsType_HaveNoOrder toView:self.tableView];
 
